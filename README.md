@@ -1,4 +1,4 @@
-### API Document
+# API Document
 
 **API_ROOT:** https://api.jiban.earth
 
