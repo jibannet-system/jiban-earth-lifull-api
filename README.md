@@ -17,7 +17,9 @@
 * **Reponse Type:** text/json
 
 #### Request: 
-		URL: [{API_ROOT}/auth/abc123
+```
+URL: {API_ROOT}/auth/abc123
+```
 #### Response:
     
   ```
@@ -40,7 +42,9 @@
 * **Reponse Type:** text/json
 
 #### Request: 
-		URL: [{API_ROOT}/tile/shaking/4AS2LdsNCIMhKVXjaABz/16/29101/12902.png
+```
+URL: {API_ROOT}/tile/shaking/4AS2LdsNCIMhKVXjaABz/16/29101/12902.png
+```
 #### Response:
     
   ```
