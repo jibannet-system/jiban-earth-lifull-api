@@ -10,7 +10,7 @@
 ***********************
 
 ## 1. Authentications
-* **URL:** [{API_ROOT}/auth/](#)
+* **URL:** [{API_ROOT}/auth/:key](#)
 * **Method:** GET
 * **Parameter**: **:key**
 * **Content Type:** application/json
