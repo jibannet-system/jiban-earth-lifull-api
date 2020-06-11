@@ -50,7 +50,7 @@ URL: {API_ROOT}/tile/shaking/4AS2LdsNCIMhKVXjaABz/16/29101/12902.png
   ```
   12902.png
   ```
-  
+-----------
   
 # USING WITH GOOGLE MAP
 * **(1)** Add an element to the page, where the map should appear. 
