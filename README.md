@@ -70,13 +70,13 @@ var map = new google.maps.Map(mapEl, {
 });
 ```
 
-* **(4)** Replace the sample `TILE_URL` with your own, which should look (roughly) like: `https://api.jiban.earth/tile/:map_type/:access_token/:x/:y/:z`.
+* **(4)** Replace the sample `TILE_URL` with your own, which should look (roughly) like: `https://api.jiban.earth/tile/:map_type/:access_token/:z/:x/:y.png`.
 
 Create a new tile layer using this URL:
 
 ```javascript
 // Replace this with your URL.
-var TILE_URL = 'https://api.jiban.earth/tile/shaking/4AS2LdsNCIMhKVXjaABz/:x/:y/:z';
+var TILE_URL = 'https://api.jiban.earth/tile/shaking/4AS2LdsNCIMhKVXjaABz/:z/:x/:y.png';
 
 // Name the layer anything you like.
 var layerID = 'my_custom_layer';
