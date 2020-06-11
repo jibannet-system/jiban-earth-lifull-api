@@ -2,9 +2,9 @@
 
 **API_ROOT:** https://api.jiban.earth
 
-## Danh sách các API liên quan tới Master
-###### 1. [Authentications](#1. Authentications)
-###### 2. [Lấy danh sách type_bearing_wall](#2. Lấy danh sách type_bearing_wall)
+## List API
+###### 1. [Authentications](#1-authentications)
+###### 2. [Get Tile Data](#2-get-tile-data)
 
 
 ***********************
