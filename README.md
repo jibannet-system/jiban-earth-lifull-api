@@ -28,6 +28,13 @@ URL: {API_ROOT}/auth/abc123
         "access_token": 4AS2LdsNCIMhKVXjaABz
     }
   ```
+#### Response Error:
+    
+  ```
+	{
+        "status": "error"
+    }
+  ```
   
  ## 2. Get Tile Data
 * **URL:** [{API_ROOT}/tile/:map_type/:access_token/:z/:x/:y.png](#)
@@ -49,6 +56,13 @@ URL: {API_ROOT}/tile/shaking/4AS2LdsNCIMhKVXjaABz/16/29101/12902.png
     
   ```
   12902.png
+  ```
+-----------
+
+#### Response Error:
+    
+  ```
+  notfound.png
   ```
 -----------
   
